@@ -18,7 +18,7 @@ I am passionate about data analysis and process improvement, focusing on economi
   - ![Macros](https://img.icons8.com/color/20/000000/code-file.png) Macros
 
 ## 📊 Featured Projects
-- This [GitHub Repository](https://github.com/PabloCH2410?tab=repositories) !!!
+- This [GitHub Profile](https://github.com/PabloCH2410?tab=repositories) !!!
 
 ## 📞 Contact
 - **LinkedIn**: [Pablo Cano Herrera](https://www.linkedin.com/in/pablocanoherrera)

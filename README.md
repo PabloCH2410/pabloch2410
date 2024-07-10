@@ -21,4 +21,4 @@ I am passionate about data analysis and process improvement, focusing on economi
 - This [GitHub Profile](https://github.com/PabloCH2410?tab=repositories) !!!
 
 ## 📞 Contact
-- **LinkedIn**: [Pablo Cano Herrera](https://www.linkedin.com/in/pablocanoherrera)
+- **LinkedIn**: [Pablo Cano Herrera](https://www.linkedin.com/in/pablo-cano-herrera-a4724920b/)
